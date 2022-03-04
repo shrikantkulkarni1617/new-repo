@@ -1,0 +1,3 @@
+id, name,dept
+1,shrikant,1000
+2,shri,30000
